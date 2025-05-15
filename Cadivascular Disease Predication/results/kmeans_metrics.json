@@ -1,0 +1,42 @@
+{
+  "model": "K-Means",
+  "mode_results": {
+    "cluster_0": {
+      "mode": 1,
+      "count": 15134
+    },
+    "cluster_1": {
+      "mode": 0,
+      "count": 23396
+    }
+  },
+  "training_accuracy": 0.704,
+  "test_accuracy": 0.7028,
+  "classification_report": {
+    "0": {
+      "precision": 0.66,
+      "recall": 0.85,
+      "f1_score": 0.74,
+      "support": 6988
+    },
+    "1": {
+      "precision": 0.78,
+      "recall": 0.55,
+      "f1_score": 0.65,
+      "support": 6696
+    },
+    "accuracy": 0.7,
+    "macro_avg": {
+      "precision": 0.72,
+      "recall": 0.7,
+      "f1_score": 0.69,
+      "support": 13684
+    },
+    "weighted_avg": {
+      "precision": 0.72,
+      "recall": 0.7,
+      "f1_score": 0.7,
+      "support": 13684
+    }
+  }
+}

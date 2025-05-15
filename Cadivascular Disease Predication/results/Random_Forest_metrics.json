@@ -1,0 +1,33 @@
+{
+  "Random Forest Training Accuracy": 0.9797,
+  "Random Forest Test Accuracy": 0.7056,
+  "Random Forest Classification Report": {
+    "precision": {
+      "0": 0.71,
+      "1": 0.7
+    },
+    "recall": {
+      "0": 0.72,
+      "1": 0.69
+    },
+    "f1-score": {
+      "0": 0.71,
+      "1": 0.7
+    },
+    "support": {
+      "0": 6988,
+      "1": 6696
+    },
+    "accuracy": 0.71,
+    "macro_avg": {
+      "precision": 0.71,
+      "recall": 0.71,
+      "f1-score": 0.71
+    },
+    "weighted_avg": {
+      "precision": 0.71,
+      "recall": 0.71,
+      "f1-score": 0.71
+    }
+  }
+}

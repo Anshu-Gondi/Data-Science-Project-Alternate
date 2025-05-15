@@ -1,0 +1,33 @@
+{
+  "Logistic Regression Training Accuracy": 0.7295,
+  "Logistic Regression Test Accuracy": 0.7202,
+  "Logistic Regression Classification Report": {
+    "precision": {
+      "0": 0.7,
+      "1": 0.74
+    },
+    "recall": {
+      "0": 0.78,
+      "1": 0.66
+    },
+    "f1-score": {
+      "0": 0.74,
+      "1": 0.7
+    },
+    "support": {
+      "0": 6988,
+      "1": 6696
+    },
+    "accuracy": 0.72,
+    "macro_avg": {
+      "precision": 0.72,
+      "recall": 0.72,
+      "f1-score": 0.72
+    },
+    "weighted_avg": {
+      "precision": 0.72,
+      "recall": 0.72,
+      "f1-score": 0.72
+    }
+  }
+}

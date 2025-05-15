@@ -1,0 +1,33 @@
+{
+  "K-Nearest Neighbors Training Accuracy": 0.7834,
+  "K-Nearest Neighbors Test Accuracy": 0.695,
+  "K-Nearest Neighbors Classification Report": {
+    "precision": {
+      "0": 0.7,
+      "1": 0.69
+    },
+    "recall": {
+      "0": 0.71,
+      "1": 0.68
+    },
+    "f1-score": {
+      "0": 0.7,
+      "1": 0.69
+    },
+    "support": {
+      "0": 6988,
+      "1": 6696
+    },
+    "accuracy": 0.7,
+    "macro_avg": {
+      "precision": 0.69,
+      "recall": 0.69,
+      "f1-score": 0.69
+    },
+    "weighted_avg": {
+      "precision": 0.69,
+      "recall": 0.7,
+      "f1-score": 0.69
+    }
+  }
+}

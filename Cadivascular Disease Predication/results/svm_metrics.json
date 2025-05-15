@@ -1,0 +1,32 @@
+{
+  "model": "SVM",
+  "training_accuracy": 0.7269,
+  "test_accuracy": 0.7206,
+  "classification_report": {
+    "0": {
+      "precision": 0.69,
+      "recall": 0.81,
+      "f1_score": 0.75,
+      "support": 6988
+    },
+    "1": {
+      "precision": 0.76,
+      "recall": 0.63,
+      "f1_score": 0.69,
+      "support": 6696
+    },
+    "accuracy": 0.72,
+    "macro_avg": {
+      "precision": 0.73,
+      "recall": 0.72,
+      "f1_score": 0.72,
+      "support": 13684
+    },
+    "weighted_avg": {
+      "precision": 0.73,
+      "recall": 0.72,
+      "f1_score": 0.72,
+      "support": 13684
+    }
+  }
+}
