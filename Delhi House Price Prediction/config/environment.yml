@@ -1,0 +1,14 @@
+name: delhi_house_price_pred
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - xgboost
+  - joblib
+  - scripy

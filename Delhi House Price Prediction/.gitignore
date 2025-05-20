@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files and virtual envs
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# VSCode settings folder
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Keep raw data, but ignore processed data and model outputs
+# (Adjust folder names to your project structure)
+data/processed/
+data/models/
+data/interim/
+
+# Model files
+models/
+*.joblib
+*.pkl
+
+# Ignore system files
+Thumbs.db
